@@ -71,7 +71,7 @@ www.pixfort.com
 
 	/*Welcome to our High Quality */
 	.main_bg{
-		background: url('../homepage-background/Ahwatukee-Family-Doctor.jpg')  no-repeat center center fixed ;
+		background: url('images/Ahwatukee-Family-Doctor.jpg')  no-repeat center center fixed ;
 		background-attachment : fixed;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
